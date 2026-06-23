@@ -5,7 +5,6 @@ import com.example.taskmanagement.entity.Priority;
 import com.example.taskmanagement.entity.Status;
 import com.example.taskmanagement.entity.Task;
 import com.example.taskmanagement.entity.User;
-import com.example.taskmanagement.exception.AccessDeniedException;
 import com.example.taskmanagement.exception.ResourceNotFoundException;
 import com.example.taskmanagement.mapper.TaskMapper;
 import com.example.taskmanagement.repository.TaskRepository;
